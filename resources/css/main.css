@@ -1,3 +1,39 @@
 body {
-    color: blue
+    background-color: black;
+    font-family: Verdana;
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+.banner {
+    font-size: 50px;
+    font-weight: 200;
+}
+
+.download a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.travel h2 {
+    padding: 15px;
+}
+
+.travel span {
+    font-size: 21px;
+    color: gray;
+    padding: 10px;
+}
+
+.img-container {
+    padding: 40px;
+}
+
+#logo {
+    text-align: right;
 }
